@@ -1,5 +1,7 @@
 {
   "title": "NGO & Research Data Finder",
+  "description": "Find NGO and research datasets filtered by keyword.",
+  "schemaVersion": 1,
   "type": "object",
   "properties": {
     "keyword": {
