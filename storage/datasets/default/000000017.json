@@ -1,8 +1,9 @@
 {
 	"title": "sensors.AFRICA Air Quality Archive Dar es Salaam\n            sensors.AFRICA",
 	"description": "",
-	"link": "https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam",
 	"source": "OpenAFRICA",
+	"category": "General",
 	"region": "Africa",
-	"last_updated": "Unknown"
+	"last_updated": "Unknown",
+	"download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam"
 }

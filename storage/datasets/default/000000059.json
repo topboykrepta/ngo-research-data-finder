@@ -1,0 +1,9 @@
+{
+	"title": "Poverty Severity ($4 a day)-Urban",
+	"description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+	"source": "World Bank",
+	"category": "LAC Equity Lab",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.2.PSev.Poor4uds"
+}

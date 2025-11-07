@@ -1,0 +1,9 @@
+{
+	"title": "Poverty Gap ($1.90 a day)-Urban",
+	"description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+	"source": "World Bank",
+	"category": "LAC Equity Lab",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.2.PGap.1.90usd"
+}

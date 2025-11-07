@@ -1,0 +1,9 @@
+{
+	"title": "Literacy rate, youth total (% of people ages 15-24) ",
+	"description": "The number of persons aged 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, ‘literacy’ also encompasses ‘numeracy’, the ability to make simple arithmetic calculations. For further country-specific definition details please refer to the source of information, the UNESCO Institute for Statistics (UIS): www.uis.unesco.org",
+	"source": "World Bank",
+	"category": "Global Partnership for Education",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.1_YOUTH.LITERACY.RATE"
+}

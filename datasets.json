@@ -1,0 +1,632 @@
+[
+  {
+    "title": "sensors.AFRICA Air Quality Archive Nakuru\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-nakuru"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Nairobi\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-nairobi"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Meru\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-meru"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Lusaka\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-lusaka"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Lagos\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-lagos"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Kumasi\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-kumasi"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Kiambu\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-kiambu"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive EFAB Met, Abuja\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-efab-met-abuja"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Akure\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-akure"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Ado-Ekiti\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-ado-ekiti"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Accra\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-accra"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Abuja\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-abuja"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Kampala\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-kampala"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Juja\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-juja"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Durban\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-durban"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Dodoma\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-dodoma"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Dar es Salaam\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Bagamoyo\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-bagamoyo"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Kisumu\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-kisumu"
+  },
+  {
+    "title": "sensors.AFRICA Air Quality Archive Alagbaka Akure\n            sensors.AFRICA",
+    "description": "",
+    "source": "OpenAFRICA",
+    "category": "General",
+    "region": "Africa",
+    "last_updated": "Unknown",
+    "download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-alagbaka-akure"
+  },
+  {
+    "title": "Poverty Headcount ($1.90 a day)",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.1.90usd"
+  },
+  {
+    "title": "Poverty Headcount ($2.50 a day)",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.2.5usd"
+  },
+  {
+    "title": "Middle Class ($10-50 a day) Headcount",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.Mid10to50"
+  },
+  {
+    "title": "Official Moderate Poverty Rate-National",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.Ofcl"
+  },
+  {
+    "title": "Poverty Headcount ($4 a day)",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.Poor4uds"
+  },
+  {
+    "title": "Vulnerable ($4-10 a day) Headcount",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.HCount.Vul4to10"
+  },
+  {
+    "title": "Poverty Gap ($1.90 a day)",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PGap.1.90usd"
+  },
+  {
+    "title": "Poverty Gap ($2.50 a day)",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PGap.2.5usd"
+  },
+  {
+    "title": "Poverty Gap ($4 a day)",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PGap.Poor4uds"
+  },
+  {
+    "title": "Poverty Severity ($1.90 a day)",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PSev.1.90usd"
+  },
+  {
+    "title": "Poverty Severity ($2.50 a day)",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PSev.2.5usd"
+  },
+  {
+    "title": "Poverty Severity ($4 a day)",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.0.PSev.Poor4uds"
+  },
+  {
+    "title": "Poverty Headcount ($1.90 a day)-Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.1.90usd"
+  },
+  {
+    "title": "Poverty Headcount ($2.50 a day)-Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.2.5usd"
+  },
+  {
+    "title": "Middle Class ($10-50 a day) Headcount-Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.Mid10to50"
+  },
+  {
+    "title": "Official Moderate Poverty Rate- Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.Ofcl"
+  },
+  {
+    "title": "Poverty Headcount ($4 a day)-Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.Poor4uds"
+  },
+  {
+    "title": "Vulnerable ($4-10 a day) Headcount-Rural",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.HCount.Vul4to10"
+  },
+  {
+    "title": "Poverty Gap ($1.90 a day)-Rural",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PGap.1.90usd"
+  },
+  {
+    "title": "Poverty Gap ($2.50 a day)-Rural",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PGap.2.5usd"
+  },
+  {
+    "title": "Poverty Gap ($4 a day)-Rural",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PGap.Poor4uds"
+  },
+  {
+    "title": "Poverty Severity ($1.90 a day)-Rural",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PSev.1.90usd"
+  },
+  {
+    "title": "Poverty Severity ($2.50 a day)-Rural",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PSev.2.5usd"
+  },
+  {
+    "title": "Poverty Severity ($4 a day)-Rural",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1.PSev.Poor4uds"
+  },
+  {
+    "title": "Access to electricity (% of total population)",
+    "description": "Access to electricity is the percentage of population with access to electricity.",
+    "source": "World Bank",
+    "category": "Sustainable Energy for All",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1_ACCESS.ELECTRICITY.TOT"
+  },
+  {
+    "title": "Total final energy consumption (TFEC)",
+    "description": "Total final energy consumption (TFEC): This indicator is derived form energy balances statistics and is equivalent to total final consumption excluding non-energy use.",
+    "source": "World Bank",
+    "category": "Sustainable Energy for All",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1_TOTAL.FINAL.ENERGY.CONSUM"
+  },
+  {
+    "title": "Literacy rate, youth total (% of people ages 15-24) ",
+    "description": "The number of persons aged 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, ‘literacy’ also encompasses ‘numeracy’, the ability to make simple arithmetic calculations. For further country-specific definition details please refer to the source of information, the UNESCO Institute for Statistics (UIS): www.uis.unesco.org",
+    "source": "World Bank",
+    "category": "Global Partnership for Education",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.1_YOUTH.LITERACY.RATE"
+  },
+  {
+    "title": "Poverty Headcount ($1.90 a day)-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.1.90usd"
+  },
+  {
+    "title": "Poverty Headcount ($2.50 a day)-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.2.5usd"
+  },
+  {
+    "title": "Middle Class ($10-50 a day) Headcount-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.Mid10to50"
+  },
+  {
+    "title": "Official Moderate Poverty Rate-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.Ofcl"
+  },
+  {
+    "title": "Poverty Headcount ($4 a day)-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.Poor4uds"
+  },
+  {
+    "title": "Vulnerable ($4-10 a day) Headcount-Urban",
+    "description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.HCount.Vul4to10"
+  },
+  {
+    "title": "Poverty Gap ($1.90 a day)-Urban",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PGap.1.90usd"
+  },
+  {
+    "title": "Poverty Gap ($2.50 a day)-Urban",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PGap.2.5usd"
+  },
+  {
+    "title": "Poverty Gap ($4 a day)-Urban",
+    "description": "The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PGap.Poor4uds"
+  },
+  {
+    "title": "Poverty Severity ($1.90 a day)-Urban",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PSev.1.90usd"
+  },
+  {
+    "title": "Poverty Severity ($2.50 a day)-Urban",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PSev.2.5usd"
+  },
+  {
+    "title": "Poverty Severity ($4 a day)-Urban",
+    "description": "The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line",
+    "source": "World Bank",
+    "category": "LAC Equity Lab",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2.PSev.Poor4uds"
+  },
+  {
+    "title": "Access to electricity (% of rural population)",
+    "description": "Access to electricity is the percentage of rural population with access to electricity. ",
+    "source": "World Bank",
+    "category": "Sustainable Energy for All",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.2_ACCESS.ELECTRICITY.RURAL"
+  },
+  {
+    "title": "Access to electricity (% of urban population)",
+    "description": "Access to electricity is the percentage of total population with access to electricity. ",
+    "source": "World Bank",
+    "category": "Sustainable Energy for All",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1.3_ACCESS.ELECTRICITY.URBAN"
+  },
+  {
+    "title": "100000:GROSS DOMESTIC PRODUCT",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "International Comparison Program (ICP) 2005",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/100000"
+  },
+  {
+    "title": "1000000:GROSS DOMESTIC PRODUCT",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "ICP 2017",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1000000"
+  },
+  {
+    "title": "110000:INDIVIDUAL CONSUMPTION EXPENDITURE BY HOUSEHOLDS",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "International Comparison Program (ICP) 2005",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/110000"
+  },
+  {
+    "title": "110100:FOOD AND NON-ALCOHOLIC BEVERAGES",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "International Comparison Program (ICP) 2005",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/110100"
+  },
+  {
+    "title": "1101000:FOOD AND NON-ALCOHOLIC BEVERAGES",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "ICP 2017",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1101000"
+  },
+  {
+    "title": "110110:FOOD",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "International Comparison Program (ICP) 2005",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/110110"
+  },
+  {
+    "title": "1101100:FOOD",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "ICP 2017",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1101100"
+  },
+  {
+    "title": "110111:Bread and cereals (Class)",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "International Comparison Program (ICP) 2005",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/110111"
+  },
+  {
+    "title": "1101110:Bread and cereals",
+    "description": "No description",
+    "source": "World Bank",
+    "category": "ICP 2017",
+    "region": "Global",
+    "last_updated": "N/A",
+    "download_url": "https://data.worldbank.org/indicator/1101110"
+  }
+]

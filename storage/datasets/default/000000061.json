@@ -1,0 +1,9 @@
+{
+	"title": "Access to electricity (% of urban population)",
+	"description": "Access to electricity is the percentage of total population with access to electricity. ",
+	"source": "World Bank",
+	"category": "Sustainable Energy for All",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.3_ACCESS.ELECTRICITY.URBAN"
+}

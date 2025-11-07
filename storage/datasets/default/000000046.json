@@ -1,0 +1,9 @@
+{
+	"title": "Total final energy consumption (TFEC)",
+	"description": "Total final energy consumption (TFEC): This indicator is derived form energy balances statistics and is equivalent to total final consumption excluding non-energy use.",
+	"source": "World Bank",
+	"category": "Sustainable Energy for All",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.1_TOTAL.FINAL.ENERGY.CONSUM"
+}

@@ -1,0 +1,91 @@
+title,description,source,category,region,last_updated,download_url
+"sensors.AFRICA Air Quality Archive Nakuru
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-nakuru
+"sensors.AFRICA Air Quality Archive Nairobi
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-nairobi
+"sensors.AFRICA Air Quality Archive Meru
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-meru
+"sensors.AFRICA Air Quality Archive Lusaka
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-lusaka
+"sensors.AFRICA Air Quality Archive Lagos
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-lagos
+"sensors.AFRICA Air Quality Archive Kumasi
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-kumasi
+"sensors.AFRICA Air Quality Archive Kiambu
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-kiambu
+"sensors.AFRICA Air Quality Archive EFAB Met, Abuja
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-efab-met-abuja
+"sensors.AFRICA Air Quality Archive Akure
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-akure
+"sensors.AFRICA Air Quality Archive Ado-Ekiti
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-ado-ekiti
+"sensors.AFRICA Air Quality Archive Accra
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-accra
+"sensors.AFRICA Air Quality Archive Abuja
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-abuja
+"sensors.AFRICA Air Quality Archive Kampala
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-kampala
+"sensors.AFRICA Air Quality Archive Juja
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-juja
+"sensors.AFRICA Air Quality Archive Durban
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-durban
+"sensors.AFRICA Air Quality Archive Dodoma
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-dodoma
+"sensors.AFRICA Air Quality Archive Dar es Salaam
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-dar-es-salaam
+"sensors.AFRICA Air Quality Archive Bagamoyo
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-bagamoyo
+"sensors.AFRICA Air Quality Archive Kisumu
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-kisumu
+"sensors.AFRICA Air Quality Archive Alagbaka Akure
+            sensors.AFRICA",,OpenAFRICA,General,Africa,Unknown,https://open.africa/dataset/sensorsafrica-airquality-archive-alagbaka-akure
+Poverty Headcount ($1.90 a day),The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.1.90usd
+Poverty Headcount ($2.50 a day),The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.2.5usd
+Middle Class ($10-50 a day) Headcount,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.Mid10to50
+Official Moderate Poverty Rate-National,The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.Ofcl
+Poverty Headcount ($4 a day),The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.Poor4uds
+Vulnerable ($4-10 a day) Headcount,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.HCount.Vul4to10
+Poverty Gap ($1.90 a day),"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PGap.1.90usd
+Poverty Gap ($2.50 a day),"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PGap.2.5usd
+Poverty Gap ($4 a day),"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PGap.Poor4uds
+Poverty Severity ($1.90 a day),The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PSev.1.90usd
+Poverty Severity ($2.50 a day),The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PSev.2.5usd
+Poverty Severity ($4 a day),The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.0.PSev.Poor4uds
+Poverty Headcount ($1.90 a day)-Rural,The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.1.90usd
+Poverty Headcount ($2.50 a day)-Rural,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.2.5usd
+Middle Class ($10-50 a day) Headcount-Rural,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.Mid10to50
+Official Moderate Poverty Rate- Rural,The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.Ofcl
+Poverty Headcount ($4 a day)-Rural,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.Poor4uds
+Vulnerable ($4-10 a day) Headcount-Rural,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.HCount.Vul4to10
+Poverty Gap ($1.90 a day)-Rural,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PGap.1.90usd
+Poverty Gap ($2.50 a day)-Rural,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PGap.2.5usd
+Poverty Gap ($4 a day)-Rural,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PGap.Poor4uds
+Poverty Severity ($1.90 a day)-Rural,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PSev.1.90usd
+Poverty Severity ($2.50 a day)-Rural,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PSev.2.5usd
+Poverty Severity ($4 a day)-Rural,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.1.PSev.Poor4uds
+Access to electricity (% of total population),Access to electricity is the percentage of population with access to electricity.,World Bank,Sustainable Energy for All,Global,N/A,https://data.worldbank.org/indicator/1.1_ACCESS.ELECTRICITY.TOT
+Total final energy consumption (TFEC),Total final energy consumption (TFEC): This indicator is derived form energy balances statistics and is equivalent to total final consumption excluding non-energy use.,World Bank,Sustainable Energy for All,Global,N/A,https://data.worldbank.org/indicator/1.1_TOTAL.FINAL.ENERGY.CONSUM
+"Literacy rate, youth total (% of people ages 15-24) ","The number of persons aged 15 to 24 years who can both read and write with understanding a short simple statement on their everyday life, divided by the population in that age group. Generally, ‘literacy’ also encompasses ‘numeracy’, the ability to make simple arithmetic calculations. For further country-specific definition details please refer to the source of information, the UNESCO Institute for Statistics (UIS): www.uis.unesco.org",World Bank,Global Partnership for Education,Global,N/A,https://data.worldbank.org/indicator/1.1_YOUTH.LITERACY.RATE
+Poverty Headcount ($1.90 a day)-Urban,The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.1.90usd
+Poverty Headcount ($2.50 a day)-Urban,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.2.5usd
+Middle Class ($10-50 a day) Headcount-Urban,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.Mid10to50
+Official Moderate Poverty Rate-Urban,The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.Ofcl
+Poverty Headcount ($4 a day)-Urban,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.Poor4uds
+Vulnerable ($4-10 a day) Headcount-Urban,The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.HCount.Vul4to10
+Poverty Gap ($1.90 a day)-Urban,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PGap.1.90usd
+Poverty Gap ($2.50 a day)-Urban,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PGap.2.5usd
+Poverty Gap ($4 a day)-Urban,"The poverty gap captures the mean aggregate income or consumption shortfall relative to the poverty line across the entire population. It measures the total resources needed to bring all the poor to the level of the poverty line (averaged over the total population). ",World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PGap.Poor4uds
+Poverty Severity ($1.90 a day)-Urban,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PSev.1.90usd
+Poverty Severity ($2.50 a day)-Urban,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PSev.2.5usd
+Poverty Severity ($4 a day)-Urban,The poverty severity index combines information on both poverty and inequality among the poor by averaging the squares of the poverty gaps relative the poverty line,World Bank,LAC Equity Lab,Global,N/A,https://data.worldbank.org/indicator/1.2.PSev.Poor4uds
+Access to electricity (% of rural population),"Access to electricity is the percentage of rural population with access to electricity. ",World Bank,Sustainable Energy for All,Global,N/A,https://data.worldbank.org/indicator/1.2_ACCESS.ELECTRICITY.RURAL
+Access to electricity (% of urban population),"Access to electricity is the percentage of total population with access to electricity. ",World Bank,Sustainable Energy for All,Global,N/A,https://data.worldbank.org/indicator/1.3_ACCESS.ELECTRICITY.URBAN
+100000:GROSS DOMESTIC PRODUCT,No description,World Bank,International Comparison Program (ICP) 2005,Global,N/A,https://data.worldbank.org/indicator/100000
+1000000:GROSS DOMESTIC PRODUCT,No description,World Bank,ICP 2017,Global,N/A,https://data.worldbank.org/indicator/1000000
+110000:INDIVIDUAL CONSUMPTION EXPENDITURE BY HOUSEHOLDS,No description,World Bank,International Comparison Program (ICP) 2005,Global,N/A,https://data.worldbank.org/indicator/110000
+110100:FOOD AND NON-ALCOHOLIC BEVERAGES,No description,World Bank,International Comparison Program (ICP) 2005,Global,N/A,https://data.worldbank.org/indicator/110100
+1101000:FOOD AND NON-ALCOHOLIC BEVERAGES,No description,World Bank,ICP 2017,Global,N/A,https://data.worldbank.org/indicator/1101000
+110110:FOOD,No description,World Bank,International Comparison Program (ICP) 2005,Global,N/A,https://data.worldbank.org/indicator/110110
+1101100:FOOD,No description,World Bank,ICP 2017,Global,N/A,https://data.worldbank.org/indicator/1101100
+110111:Bread and cereals (Class),No description,World Bank,International Comparison Program (ICP) 2005,Global,N/A,https://data.worldbank.org/indicator/110111
+1101110:Bread and cereals,No description,World Bank,ICP 2017,Global,N/A,https://data.worldbank.org/indicator/1101110

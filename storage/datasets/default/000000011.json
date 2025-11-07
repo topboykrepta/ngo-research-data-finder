@@ -1,8 +1,9 @@
 {
 	"title": "sensors.AFRICA Air Quality Archive Accra\n            sensors.AFRICA",
 	"description": "",
-	"link": "https://open.africa/dataset/sensorsafrica-airquality-archive-accra",
 	"source": "OpenAFRICA",
+	"category": "General",
 	"region": "Africa",
-	"last_updated": "Unknown"
+	"last_updated": "Unknown",
+	"download_url": "https://open.africa/dataset/sensorsafrica-airquality-archive-accra"
 }

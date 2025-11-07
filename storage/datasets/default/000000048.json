@@ -1,0 +1,9 @@
+{
+	"title": "Poverty Headcount ($1.90 a day)-Urban",
+	"description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2011 PPP) below the poverty line.",
+	"source": "World Bank",
+	"category": "LAC Equity Lab",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.2.HCount.1.90usd"
+}

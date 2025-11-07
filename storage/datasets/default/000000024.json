@@ -1,0 +1,9 @@
+{
+	"title": "Official Moderate Poverty Rate-National",
+	"description": "The poverty headcount index measures the proportion of the population with daily per capita income below the official poverty line developed by each country.",
+	"source": "World Bank",
+	"category": "LAC Equity Lab",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.0.HCount.Ofcl"
+}

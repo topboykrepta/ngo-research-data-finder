@@ -1,0 +1,9 @@
+{
+	"title": "Middle Class ($10-50 a day) Headcount-Rural",
+	"description": "The poverty headcount index measures the proportion of the population with daily per capita income (in 2005 PPP) below the poverty line.",
+	"source": "World Bank",
+	"category": "LAC Equity Lab",
+	"region": "Global",
+	"last_updated": "N/A",
+	"download_url": "https://data.worldbank.org/indicator/1.1.HCount.Mid10to50"
+}
