@@ -1,0 +1,13 @@
+{
+  "name": "ngo-research-data-finder",
+  "version": "1.0.0",
+  "main": "main.js",
+  "dependencies": {
+    "apify": "^3.0.0",
+    "axios": "^1.7.2",
+    "cheerio": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node main.js"
+  }
+}
