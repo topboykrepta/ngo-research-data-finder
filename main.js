@@ -6,6 +6,16 @@ import Papa from "papaparse";
 
 await Actor.init();
 
+// 🧠 Get input keyword
+const input = await Actor.getInput();
+const keyword = input?.keyword?.toLowerCase().trim() || "";
+
+console.log(`🌍 Starting NGO & Research Data Finder (keyword: "${keyword || 'none'}")...`);
+
+const datasets = [];
+
+await Actor.init();
+
 console.log("🌍 Starting NGO & Research Data Finder (multi-source)...");
 
 const datasets = [];
@@ -123,4 +133,25 @@ console.log(`💾 Saved ${datasets.length} records to datasets.json and datasets
 await Actor.pushData(datasets);
 
 console.log("🎉 NGO & Research Data Finder completed successfully!");
+await Actor.exit();
+
+// 🔍 Filter by keyword (if provided)
+let filtered = datasets;
+if (keyword) {
+    filtered = datasets.filter((d) =>
+        Object.values(d).some((v) =>
+            v.toLowerCase().includes(keyword)
+        )
+    );
+    console.log(`🧾 Filtered ${filtered.length} of ${datasets.length} datasets containing "${keyword}"`);
+}
+
+// 💾 Save filtered results
+fs.writeFileSync("datasets.json", JSON.stringify(filtered, null, 2));
+const csv = Papa.unparse(filtered);
+fs.writeFileSync("datasets.csv", csv);
+
+await Actor.pushData(filtered);
+
+console.log(`🎉 NGO & Research Data Finder completed. Total records: ${filtered.length}`);
 await Actor.exit();

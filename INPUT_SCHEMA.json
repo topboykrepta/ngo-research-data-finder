@@ -1,0 +1,13 @@
+{
+  "title": "NGO & Research Data Finder",
+  "type": "object",
+  "properties": {
+    "keyword": {
+      "title": "Keyword Filter",
+      "type": "string",
+      "description": "Enter a keyword to filter datasets (e.g., 'climate', 'water', 'health'). Leave blank to get everything.",
+      "default": ""
+    }
+  },
+  "required": []
+}
